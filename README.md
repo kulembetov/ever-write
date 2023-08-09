@@ -18,7 +18,7 @@ A one-page website, with the ability to create your own notes that will help you
 Clone a repository:
 
 ```
-git clone https://github.com/kulembetov/react-stellar-burger.git
+git clone https://github.com/kulembetov/ever-write.git
 ```
 
 Install dependencies:
